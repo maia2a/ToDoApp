@@ -12,3 +12,4 @@
 /home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.pdb
 /home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.genruntimeconfig.cache
 /home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ref/ToDoApp.dll
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.sourcelink.json
