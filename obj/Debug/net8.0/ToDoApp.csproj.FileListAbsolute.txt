@@ -1,0 +1,14 @@
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.AssemblyInfoInputs.cache
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.AssemblyInfo.cs
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.csproj.CoreCompileInputs.cache
+/home/gabri/projetos/ToDoApp/bin/Debug/net8.0/ToDoApp
+/home/gabri/projetos/ToDoApp/bin/Debug/net8.0/ToDoApp.deps.json
+/home/gabri/projetos/ToDoApp/bin/Debug/net8.0/ToDoApp.runtimeconfig.json
+/home/gabri/projetos/ToDoApp/bin/Debug/net8.0/ToDoApp.dll
+/home/gabri/projetos/ToDoApp/bin/Debug/net8.0/ToDoApp.pdb
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.dll
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/refint/ToDoApp.dll
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.pdb
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ToDoApp.genruntimeconfig.cache
+/home/gabri/projetos/ToDoApp/obj/Debug/net8.0/ref/ToDoApp.dll
